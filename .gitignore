@@ -14,5 +14,6 @@ env/
 # Log files
 *.log
 
-# Environment variables (if you use .env files)
+
 .env
+.venv
